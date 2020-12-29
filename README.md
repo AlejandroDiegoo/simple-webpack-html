@@ -1,6 +1,6 @@
 # simple-webpack-html
 
-**simple-webpack-html** is a simple skeleton to use webpack with a simple HTML.
+**simple-webpack-html** is a skeleton to use webpack with a simple HTML.
 
 ### Download
 
