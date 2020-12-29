@@ -1,13 +1,21 @@
 {
-  "name": "test",
+  "name": "simple-webpack-html",
   "version": "1.0.0",
-  "description": "",
+  "description": "A skeleton to use webpack with a simple HTML",
   "scripts": {
     "build": "webpack --mode production",
-    "start": "webpack serve --mode production",
+    "dev": "webpack serve --mode production",
     "test": "./node_modules/.bin/cypress open"
   },
-  "author": "",
+  "repository": "https://github.com/AlejandroDiegoo/simple-webpack-html",
+  "keywords": [
+    "js",
+    "webpack",
+    "sass",
+    "cypress",
+    "babel"
+  ],
+  "author": "Alejandro Diego",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.11.6",
